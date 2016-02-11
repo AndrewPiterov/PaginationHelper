@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper\bin\Debug\PaginationHelper.dll
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper\bin\Debug\PaginationHelper.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper\obj\Debug\PaginationHelper.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper\obj\Debug\PaginationHelper.dll
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper\obj\Debug\PaginationHelper.pdb

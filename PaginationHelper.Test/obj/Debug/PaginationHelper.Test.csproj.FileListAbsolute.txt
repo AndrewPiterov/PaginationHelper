@@ -1,0 +1,9 @@
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\obj\Debug\PaginationHelper.Test.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\bin\Debug\PaginationHelper.Test.dll
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\bin\Debug\PaginationHelper.Test.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\bin\Debug\nunit.framework.dll
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\bin\Debug\PaginationHelper.dll
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\bin\Debug\PaginationHelper.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\bin\Debug\nunit.framework.xml
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\obj\Debug\PaginationHelper.Test.dll
+c:\users\andrey\documents\visual studio 2015\Projects\PaginationHelper\PaginationHelper.Test\obj\Debug\PaginationHelper.Test.pdb
